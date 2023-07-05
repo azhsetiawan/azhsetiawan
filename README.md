@@ -14,13 +14,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+**👇 Here are some ideas to get you started:**
+
+- 🔭 I’m currently working on <a href="https://inlive.app/?ref=gh_azh" target="_blank">inLive</a>
+- 🌱 I’m currently learning: Blender, Spline, and Svelte
+- 💬 Ask me about: CSS, Design System, and UX Design
+
 **📫 How to reach me:**
 - azh.setiawan [at] gmail
-- t.me/azhsetiawan
+- t [dot] me [slash] azhsetiawan
 
 👍🏻 👍🏼 👍🏽 👍🏾 👍🏿
 
 - <a href="https://dribbble.com/azhsetiawan" target="_blank">Dribbble</a>
 - <a href="https://www.figma.com/@azhsetiawan" target="_blank">Figma</a>
+- <a href="https://bento.me/azhsetiawan" target="_blank">Bento</a>
 
 [![Contact me on Codementor](https://www.codementor.io/m-badges/azhsetiawan/find-me-on-cm-g.svg)](https://www.codementor.io/@azhsetiawan?refer=badge)
